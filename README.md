@@ -1,1 +1,1 @@
-# c-_philosophy
+# C++ philosophy
