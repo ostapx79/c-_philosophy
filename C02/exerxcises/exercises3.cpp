@@ -1,4 +1,4 @@
-//: C02/exercises/exercises.cpp
+//: C02/exercises/exercises3.cpp
 // Напишите программу, которая открывает файл и подсчитывает количество слов,
 // резделенных прорусками.
 #include <string>
