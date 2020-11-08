@@ -13,6 +13,7 @@ int main() {
     int count = 0;
     while (in >> word) {
         count++;
+        std::cout << count << ' ' << word << std::endl;
     }
     std::cout << "Количесто слов " << word << " ровно => " << count << std::endl;
     in.close();
