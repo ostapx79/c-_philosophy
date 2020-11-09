@@ -16,11 +16,11 @@ int main() {
     }
     cout << vs.size() << endl;
     for (int i = vs.size(); i > 0; i--) {
-        cout << vs[i] << endl;
+        cout << i << vs[i] << endl;
     }
     int numb_i = vs.size();
     while (numb_i >= 0) {
-        cout << vs[numb_i] << endl;
+        cout << numb_i << vs[numb_i] << endl;
         numb_i--;
     }
     return 0;
